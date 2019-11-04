@@ -1,6 +1,7 @@
-# Analiza-ocen-profesorjev
+# Analiza ocen profesorjev
 
 Analiziral bom ocene profesorjev slovenskih fakultet.
+
 Podatke bom pobral iz: http://www.profesorji.net
 
 Za vsakega profesorja bom zajel:
